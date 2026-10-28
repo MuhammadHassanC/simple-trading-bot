@@ -29,7 +29,7 @@ pip install pandas requests
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/Shifrozy/simple-trading-bot
+git clone https://github.com/MuhammadHassanC/simple-trading-bot
 cd simple-trading-bot
 ```
 
